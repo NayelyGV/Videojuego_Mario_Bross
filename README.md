@@ -1,2 +1,6 @@
 # Videojuego_Mario_Bross
-Version 1 de videojuego de Mario Bross desarrollado con Java en Processing
+Version 1:
+Videojuego de Mario Bross desarrollado con Java en Processing  
+
+Importante:
+Importar la libreria de musica
